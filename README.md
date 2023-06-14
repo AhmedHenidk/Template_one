@@ -1,3 +1,3 @@
 # Templete_one
-<h1>Web app static by html-css (As training)</h1>
-
+<h1>Web app static</h1>
+created with html and css
