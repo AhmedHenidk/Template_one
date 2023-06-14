@@ -1,3 +1,3 @@
 # Templete_one
-<h1>Web app static</h1>
+<h3>Web app static</h3>
 created with html and css
